@@ -1,23 +1,23 @@
-# Project 5: To-Do List
+# Project 6: Shopping List
 
 Teacher: David Steedman
 
-This repository contains Project 5 and its corresponding labs for the MHS Software Engineering class. This project focuses on creating a To-Do List application in Python, which allows users to manage their tasks effectively. Students will learn about list manipulation, including adding, removing, sorting, and searching items within a list.
+This repository contains Project 6 and its corresponding labs for the MHS Software Engineering class. This project focuses on creating a Shopping List application in Python, which allows users to manage their shopping items effectively. Students will learn about dictionary manipulation, data validation, and integrating lists with dictionaries, culminating in the development of a feature-rich shopping list application.
 
-## Main Project: To-Do List
-- File: [`to-do-list.py`](to-do-list.py)
-- Description: Develop a To-Do List application in Python that allows users to manage their tasks. The application should enable users to add new tasks, remove completed tasks, sort tasks, and search for specific tasks.
+## Main Project: Shopping List
+- File: [`shopping-list.py`](shopping-list.py)
+- Description: Develop a Shopping List application in Python that allows users to manage their shopping items. The application should enable users to add new items, change quantities, remove items, and search for specific items using dictionaries and lists.
 
 ## Labs
 
-### Lab 1: Working with Lists
+### Lab 1: Dictionaries
 - File: [`lab1.py`](lab1.py)
-- Description: Learn how to create and manipulate lists in Python.
+- Description: Create and use dictionaries in Python. Learn how to manage contact information using nested dictionaries, including updating, adding, and deleting contacts, and printing the entire dictionary in a formatted way.
 
-### Lab 2: Advanced List Features
+### Lab 2: Lists and Dictionaries
 - File: [`lab2.py`](lab2.py)
-- Description: Delve into more advanced features of lists, such as removing items, searching within a list, and sorting.
+- Description: Use Lists and Dictionaries together in Python. Understand how to combine lists and dictionaries to manage contact information, including adding phone numbers, contacts, and deleting contacts, as well as printing the entire list in a formatted way.
 
-### Lab 3: Types of Errors
+### Lab 3: Data Dictionaries
 - File: [`lab3.py`](lab3.py)
-- Description: Learn how to identify and fix different types of errors in Python.
+- Description: Learn how to create and use data dictionaries. Focus on data types, formatting, and validation in Python to ensure accurate and effective data handling in software applications.

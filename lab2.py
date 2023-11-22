@@ -4,26 +4,21 @@
 - File Name: lab2.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Work some of the more advanced features of lists in Python
+- Description: Use Lists and Dictionaries together in Python
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-# Here is a list of 10 fruits:
-fruits = ["Grape", "Apple", "Lemon", "Cherry", "Date", "Elderberry", "Fig",  "Honeydew", "Kiwi", "Banana"]
+# Create a list of dictionaries called contacts that contains contact information. 
+# Each dictionary will represent a contact and contains: 
+# Name, Address, Email and a list of phone numbers. Make up at least 3 contacts.
 
 
-# Remove the third fruit from the list using the pop() method.
+# Add an extra phone number to one of your contacts
 
 
-# Use the remove() method to remove a fruit of your choice from the list.
+# Add a new contact
 
 
-# Search for "Apple" in the list and print a message saying whether or not it was found.
+# Delete a contact
 
 
-# Sort the List in alphabetical order.
-
-
-# Create a new list that contains a slice of the first 5 items
-
-
-# Print out the new sliced list using a for loop
+# Print out the entire contacts list in a nice format

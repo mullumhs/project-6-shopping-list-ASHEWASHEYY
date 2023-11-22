@@ -4,22 +4,21 @@
 - File Name: lab1.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Create and use lists in Python
+- Description: Create and use dictionaries in Python
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-# Create a list named favorite_foods and add at least five different food items to it
+# Create a nested dictionary called contacts that contains phone numbers.
+# This phone number will be the key, and the value will be a dictionary containing:
+# Name, Address, and Email. Make up at least 3 contacts.
 
 
-# Change the third item in the list to a different food
+# Update the email address of one of your contacts
 
 
-# Print out only the first and fourth items in the list
+# Add a new contact
 
 
-# Ask the user for a food item
+# Delete a contact
 
 
-# Append the user's food item to the list
-
-
-# Print out the entire list of food items
+# Print out the entire contacts dictionary in a nice format
